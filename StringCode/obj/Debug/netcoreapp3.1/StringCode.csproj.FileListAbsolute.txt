@@ -1,0 +1,14 @@
+C:\Users\OMEN\OneDrive\İş masası\Homework (2)\StringCode\StringCode\bin\Debug\netcoreapp3.1\StringCode.exe
+C:\Users\OMEN\OneDrive\İş masası\Homework (2)\StringCode\StringCode\bin\Debug\netcoreapp3.1\StringCode.deps.json
+C:\Users\OMEN\OneDrive\İş masası\Homework (2)\StringCode\StringCode\bin\Debug\netcoreapp3.1\StringCode.runtimeconfig.json
+C:\Users\OMEN\OneDrive\İş masası\Homework (2)\StringCode\StringCode\bin\Debug\netcoreapp3.1\StringCode.runtimeconfig.dev.json
+C:\Users\OMEN\OneDrive\İş masası\Homework (2)\StringCode\StringCode\bin\Debug\netcoreapp3.1\StringCode.dll
+C:\Users\OMEN\OneDrive\İş masası\Homework (2)\StringCode\StringCode\bin\Debug\netcoreapp3.1\StringCode.pdb
+C:\Users\OMEN\OneDrive\İş masası\Homework (2)\StringCode\StringCode\obj\Debug\netcoreapp3.1\StringCode.csproj.AssemblyReference.cache
+C:\Users\OMEN\OneDrive\İş masası\Homework (2)\StringCode\StringCode\obj\Debug\netcoreapp3.1\StringCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\OneDrive\İş masası\Homework (2)\StringCode\StringCode\obj\Debug\netcoreapp3.1\StringCode.AssemblyInfoInputs.cache
+C:\Users\OMEN\OneDrive\İş masası\Homework (2)\StringCode\StringCode\obj\Debug\netcoreapp3.1\StringCode.AssemblyInfo.cs
+C:\Users\OMEN\OneDrive\İş masası\Homework (2)\StringCode\StringCode\obj\Debug\netcoreapp3.1\StringCode.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\OneDrive\İş masası\Homework (2)\StringCode\StringCode\obj\Debug\netcoreapp3.1\StringCode.dll
+C:\Users\OMEN\OneDrive\İş masası\Homework (2)\StringCode\StringCode\obj\Debug\netcoreapp3.1\StringCode.pdb
+C:\Users\OMEN\OneDrive\İş masası\Homework (2)\StringCode\StringCode\obj\Debug\netcoreapp3.1\StringCode.genruntimeconfig.cache
